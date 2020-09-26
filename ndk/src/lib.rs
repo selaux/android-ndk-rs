@@ -17,12 +17,12 @@
 
 pub mod asset;
 pub mod bitmap;
-pub mod configuration;
+// pub mod configuration;
 pub mod event;
 pub mod input_queue;
 pub mod looper;
-pub mod native_activity;
-pub mod native_window;
+// pub mod native_activity;
+// pub mod native_window;
 
 pub mod aaudio;
 pub mod hardware_buffer;
